@@ -1,2 +1,2 @@
 # StrangeHiggs
-Strange Yukawa coupling at the ILC
+Added license at the request of Dr. Strube
